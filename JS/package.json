@@ -1,0 +1,33 @@
+{
+  "name": "encryption-algorithms",
+  "version": "1.0.0",
+  "author": "Encryption Algorithms Project",
+  "main": "JS/examples.js",
+  "description": "Comprehensive implementation of various encryption algorithms with educational unit tests",
+  "keywords": [
+    "encryption",
+    "cryptography",
+    "aes",
+    "des",
+    "3des",
+    "blowfish",
+    "rsa",
+    "sha256",
+    "diffie-hellman",
+    "chacha20",
+    "aes-gcm",
+    "ecc",
+    "ecdsa",
+    "ecdh"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "scripts": {
+    "algo:all": "node all.algo.js",
+    "test:all": "node all.test.js",
+    "example:all": "node all.example.js"
+  }
+}
