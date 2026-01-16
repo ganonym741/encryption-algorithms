@@ -139,7 +139,7 @@ Based on my knowledge and industry usage, here's a comprehensive overview of enc
 - Consider quantum resistance for long-term security needs
 
 ## Next Implementation
-[ ] Golang Implementation
-[ ] Rust Implementation
-[ ] Python Implementation
-[ ] Java Implementation
+- [ ] Golang Implementation
+- [ ] Rust Implementation
+- [ ] Python Implementation
+- [ ] Java Implementation
